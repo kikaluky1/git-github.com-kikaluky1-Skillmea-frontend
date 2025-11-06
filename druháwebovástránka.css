@@ -1,0 +1,85 @@
+<!DOCTYPE css>
+<css lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="PrvniWebovaStranka.css">
+</head>
+
+<body>
+<form action="/submit"method="post">
+    <Label>Meno:</Label>
+    <Input required="zadej text" type="email"></Input>
+    <button title="najeti myší">Po kliknutí sa odošlú dáta na server</button>
+</form>
+    
+<p> id="první-paragraf>další paragraf/p>
+<p> id="druhý-paragraf>další paragraf</p>
+<p >další paragraf</p>
+
+
+<div>
+    <div>
+        <div>
+p {
+    color: blue;
+}
+
+<div odstavec><color:red></color:red>  </div>
+
+    #první-paragraf {
+    color: blue;
+    <font size="2rem"></font>
+    <font family="Thaoma"></font>
+
+    }
+
+     #druhý-paragraf {
+    color: green;
+    <font size="2rem"></font>
+    <font family="Thaoma"></font>
+
+    }
+
+     <font size="2rem"></font>
+    <font family="thaoma"></font>
+<div class ="container">
+
+        <div class="box">Box 1</div>
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+element style
+        .container .box {
+            width: 100%;
+            height: 100px;
+            margin: 10px;
+            padding: 20px;
+            background-color: rgb(212, 14, 14);
+            text-align: center;
+        }
+        .box:nth-child(2) {
+            background-color: rgb(72, 88, 138);
+        }   
+        .box123 {   
+            background-color: rgb(212, 14, 57);
+            width: 100% 
+            height: 100px   
+            
+            margin: 10px
+            padding: 20px
+            box-sizing: border-box  ;
+            <div>
+    <div>
+        <div>
+p {
+    color: blue;
+}
+        }
+</div>
+
+
+</body>
+</css>

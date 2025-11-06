@@ -71,13 +71,15 @@
             </tr>
         </tbody>
 </table>
-<div>
-    <div>
-        <div> class="box">Box 1</div>
-         <div> class="box">Box 2</div>
-        <div> class="box">Box 3</div>
-    </div>
-</div>
+p odstavec {
+    color: red;
+    font-size: 2rem;
+}
+
+#první-paragraf {
+    color: violet;
+    font-size: 2rem;
+}
 
 </body>
 
