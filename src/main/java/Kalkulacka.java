@@ -5,6 +5,7 @@ import io.cucumber.java.en.When;
 
 public class Kalkulacka {
 
+
     private int prvCislo;
     private int druCislo;
     private int vypoctenyVysledek;
