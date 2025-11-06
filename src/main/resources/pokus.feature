@@ -11,6 +11,9 @@ Feature: pokus
     Then Toto je overovaci krok
     And Toto je dalsi overovaci krok
 
-
+  Scenario: Pokusny test 2
+    Given Toto je nastaveni pocatecnich podminek
+    When Tot je dalsi akcni krok
+    Then Toto je dalsi overovaci krok
 
 
